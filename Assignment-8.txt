@@ -1,0 +1,3 @@
+https://rtk-bookstore-tar.netlify.app/
+
+https://github.com/Learn-with-Sumit/batch-2---assignment-8---bookstore-with-rtk-query-toukirraju
